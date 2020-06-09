@@ -1,0 +1,30 @@
+﻿<Window x:Class="Service_portaal.newvm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Service_portaal"
+        mc:Ignorable="d"
+        Title="Virtuele machine aanvragen" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="48*"/>
+            <RowDefinition Height="371*"/>
+        </Grid.RowDefinitions>
+        <Button x:Name="aanvragbtn" Content="Indienen" HorizontalAlignment="Left" Margin="412,318,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click" Grid.Row="1"/>
+        <TextBox x:Name="aanvraagtb" HorizontalAlignment="Left" Height="109" Margin="82,178,0,0" TextWrapping="Wrap" Text="Vul hier uw reden voor de aanvraag in" VerticalAlignment="Top" Width="405" Grid.Row="1" AcceptsTab="True" AcceptsReturn="True"/>
+        <Label Content="Operating System:" HorizontalAlignment="Left" Margin="82,44,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <TextBox x:Name="vmnaamtb" HorizontalAlignment="Left" Height="23" Margin="228,27,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Grid.Row="1"/>
+        <Label Content="VM naam:" HorizontalAlignment="Left" Margin="228,44,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <Label Content="VM locatie:" HorizontalAlignment="Left" Margin="364,44,0,0" VerticalAlignment="Top" Grid.RowSpan="2"/>
+        <Label Content="Aantal CPU cores:" HorizontalAlignment="Left" Margin="82,67,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <Label Content="RAM(GB): " HorizontalAlignment="Left" Margin="228,67,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <ComboBox x:Name="vmlocb" HorizontalAlignment="Left" Margin="364,28,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="oscb" HorizontalAlignment="Left" Margin="82,28,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="niccb" HorizontalAlignment="Left" Margin="364,99,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <Label Content="NIC:" HorizontalAlignment="Left" Margin="364,68,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <ComboBox x:Name="cpucb" HorizontalAlignment="Left" Margin="82,99,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+        <ComboBox x:Name="ramcb" HorizontalAlignment="Left" Margin="228,99,0,0" Grid.Row="1" VerticalAlignment="Top" Width="120"/>
+
+    </Grid>
+</Window>

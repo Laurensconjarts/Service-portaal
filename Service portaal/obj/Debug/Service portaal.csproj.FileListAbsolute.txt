@@ -1,0 +1,67 @@
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Service portaal.exe.config
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Service portaal.exe
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Service portaal.pdb
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.csprojAssemblyReference.cache
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\App.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal_MarkupCompile.cache
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal_MarkupCompile.lref
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.g.resources
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service_portaal.Properties.Resources.resources
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.csproj.GenerateResource.cache
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.csproj.CoreCompileInputs.cache
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.exe
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.pdb
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\mainwindow.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\mainwindow.baml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\newvm.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\newvm.baml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.Modules.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.SQLite.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.Wpf.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Scripting.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.Modules.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.SQLite.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\IronPython.Wpf.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Scripting.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\Service portaal.csproj.CopyComplete
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\VM beheer.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\VM beheer.baml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\overiew.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\overviewadmin.g.cs
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\overiew.baml
+C:\Users\RENDER\source\repos\Service portaal\Service portaal\obj\Debug\overviewadmin.baml

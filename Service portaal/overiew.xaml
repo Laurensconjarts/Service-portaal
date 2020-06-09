@@ -1,0 +1,20 @@
+﻿<Window x:Class="Service_portaal.overview"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Service_portaal"
+        mc:Ignorable="d"
+        Title="Menu" Height="453.135" Width="578.688">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="43*"/>
+            <ColumnDefinition Width="380*"/>
+            <ColumnDefinition Width="148*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="tbtn" Content="Ticket openen" HorizontalAlignment="Left" Height="77" Margin="142.279,185,0,0" VerticalAlignment="Top" Width="227" Click="tbtn_Click" Grid.Column="1"/>
+        <Button x:Name="vmbtn" Content="Virtuele machine aanvragen" HorizontalAlignment="Left" Height="77" Margin="142.279,279,0,0" VerticalAlignment="Top" Width="227" Click="vmbtn_Click" Grid.Column="1"/>
+        <Image HorizontalAlignment="Left" Height="94" Margin="164.279,73,0,0" VerticalAlignment="Top" Width="302" Source="card-twocolors-purple-nl.png" Grid.ColumnSpan="2" Grid.Column="1"/>
+
+    </Grid>
+</Window>
